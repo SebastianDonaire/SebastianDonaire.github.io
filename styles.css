@@ -1,0 +1,85 @@
+html{
+    scroll-behavior: smooth;
+}
+.bienvenida {
+    justify-content: flex-start;
+    font-family: "Playwrite MX", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.holder {
+    color: #87FFFF;
+    display: flex;
+    justify-content: space-between;
+    background-color: #2A7375;
+    margin: 40px;
+    padding: 20px;
+}
+nav a {
+    background-color: #2C3333;
+    color: azure;
+    padding: 10px;
+}
+
+nav a:hover{
+    background-color:#94D6D6;
+    color:black;
+    font-weight: 20px;
+
+}
+body {
+    background-color: #2C3333;
+    color:azure;
+}
+.todo {
+    display: block;
+    justify-content: center;
+    text-align: center;
+    margin: 50px 200px;
+}
+
+
+.titulo {
+    color: #94D6D6;
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+}
+.texto-descriptivo{
+    justify-content: center;
+    width: 500px;
+    
+}
+.imagenes{
+    justify-content: flex-start;
+}
+.proyecto-1, .proyecto-2, .proyecto-3{
+    display: none;
+    justify-content: center;
+    margin: 10px;
+
+}
+.texto-a-color{
+    color: aquamarine;
+}
+ul{
+    list-style-position:inside;
+    list-style-type: square;
+    color: azure;
+}
+.link{
+    color:azure;
+    text-decoration: none;
+}
+img{
+    border-width: 4px;
+    border-style: solid;
+    border-color:#87FFFF;
+}
+.pie-de-pagina{
+    text-align: center;
+    padding: 20px;
+    background-color: #837e7e37;
+}
