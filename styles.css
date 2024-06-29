@@ -83,3 +83,10 @@ img{
     padding: 20px;
     background-color: #837e7e37;
 }
+.yo{
+    display: flex;
+    justify-content: space-around;
+}
+.nombre{
+    font-size: 60px;
+}
